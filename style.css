@@ -1,0 +1,173 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+   background-color: #403c3c;
+  
+}
+
+/*Зроби цей сайт красивим 😉*/
+header{
+    background-color: #6e605f;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+     background-color: #403c3c;
+}
+.pro_nas{
+    display: flex;
+     gap: 20px;
+    
+}
+
+.osnovne{
+    text-decoration: none;
+    color: white;
+    
+}
+.osnovne:hover{
+    color: grey;
+}
+.hero{
+text-align: center;
+
+
+background-image: url('https://faial.h83.xyz/hospodar/images/962ba6334e61.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+height: 500px;
+margin:0 ;
+}
+.nazva{
+    margin: 0;
+}
+
+.menu{
+    background-color: #403c3c;
+   
+    margin: 0;
+    text-align: center;
+    color: white;
+}
+
+.borsch{
+    color: white;
+    
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    gap: 20px;
+    border: 20px solid #403c3c;
+    font-size: 20px;
+}
+.borsch{
+ gap: 20px;
+   border: 5px solid #003d00;
+   background-color: #1a1a1a;
+   padding: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.borsch:hover{
+
+   border: 5px solid green;
+   background-color: #2d382d;
+  
+}
+.vareniki{
+ gap: 20px;
+  
+   border: 5px solid #003d00;
+   background-color: #1a1a1a;
+   padding: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    
+}
+.vareniki:hover{
+
+   border: 5px solid green;
+   background-color: #2d382d;
+}
+.deryny{
+ gap: 20px;
+ border: 5px solid #003d00;
+   background-color: #1a1a1a;
+   padding: 20px;
+    font-size: 20px;
+  border-radius: 20px;
+}
+.deryny:hover{
+
+   border: 5px solid green;
+   background-color: #2d382d;
+}
+.kotleta:hover{
+
+   border: 5px solid green;
+   background-color: #2d382d;
+}
+.kotleta{
+ gap: 20px;
+   border: 5px solid #003d00;
+   background-color: #1a1a1a;
+   padding: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.pure{
+ gap: 20px;
+ border: 5px solid #003d00;
+   background-color: #1a1a1a;
+   padding: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.pure:hover{
+
+   border: 5px solid green;
+   background-color: #2d382d;
+}
+.Olivie{
+ gap: 20px;
+  border: 5px solid #003d00;
+   background-color: #1a1a1a;
+   padding: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+}.Olivie:hover{
+
+   border: 5px solid green;
+   background-color: #2d382d;
+}
+
+.pro_nas_super{
+    margin:175px;
+    border: 5px solid #003d00;
+    background-color: #1a1a1a;
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+}
+.pro_nas_super:hover{
+  
+    border: 5px solid green;
+  background-color: #2d382d;
+}
+
+.pidval{
+       border-top: 4px solid #003d00;
+       text-align: center;
+       background-color: #1a1a1a;
+       color: white;
+       padding: 10px;
+}
+.pidval:hover{
+       border-top: 4px solid green;
+       
+       background-color:#2d382d;
+}  
